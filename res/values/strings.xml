@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Três Sete</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="text">Conecte-se a outro dispositivo para iniciar uma partida!</string>
+
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+    
+    <string name="pontos1"></string>
+    <string name="pontos2"></string>
+    <string name="restart">Nova Partida</string>
+
+</resources>
